@@ -1,0 +1,1 @@
+Sometimes a Hunter. A Flake class. Has a call-in radio show on KRYP, Kryptid Radio
