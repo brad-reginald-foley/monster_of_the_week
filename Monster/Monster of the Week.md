@@ -1,6 +1,6 @@
 This is the repo for a Monster of the Week campaign
 
-I'm keeping ongoing story arcs, characters and finished sessions together with ideas for future sessions. I'm also including resources like potential names, locations and easter eggs.
+I'm keeping ongoing story arcs, characters and finished sessions together with ideas for future sessions. I'm also including resources like potential names, locations and easter eggs. The [[Keeper Guide]] gives quick notes for how to run a session.
 
 Note: the notes and session names are basically huge spoilers for any players
 # Sessions
@@ -15,10 +15,18 @@ A running scratch list of ideas is here.
 # Characters
 * [[Player template schema|player schema]]
 * [[NPC template schema|npc schema]]
+* [[Location template schema|location schema]]
 ## Players
 
 ## Known NPCs
 * [[Mariano Williamson]]
+
+# Schemas
+* [[Location template schema]]
+* [[Player template schema]]
+* [[Session x.y template]]
+* [[Monster template schema]]
+* [[NPC template schema]]
 
 # Resources
 
