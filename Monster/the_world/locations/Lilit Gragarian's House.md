@@ -18,6 +18,6 @@ A small house in a bungalow court, in Little Armenia. Lots of snoopy neighbours,
 * Rosalinda Gutierez
 	* **Witness** (motivation: to reveal information)
 	* a neighbor. She knows about Dimi and points the finger. She saw the episode with the fairy floss
-* [[Dimitri Garagarian]] is Lilit's son. Probably won't show up here
+* [[Dimitri Gragarian]] is Lilit's son. Probably won't show up here
 # Session
 * [[Session 0.0 Angels with one wing]]

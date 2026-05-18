@@ -15,7 +15,7 @@ There is a mysterious disaster at a birthday party at [[Lilit Gragarian's House]
 
 The call in was cut off suddenly, by a voice saying "Mom! I told you ..."
 ## details
-It turns out that Mimi's father, [[Dimitri Garagarian]], had a history in organised crime, and wa working with [[Los Profanas]] to help them acquire illicit creature infused magical food.
+It turns out that Mimi's father, [[Dimitri Gragarian]], had a history in organised crime, and wa working with [[Los Profanas]] to help them acquire illicit creature infused magical food.
 
 There is a catering and bakery company called [[Creature Comforts Distributing Inc]] that has a shop front called [[Creature Confections]] in Beverly Hills and a factory in the warehouse district. They vivisect creatures, and put their essences into food that they sell to the uber rich, as well as criminal elements in the city. They are looking to expand their franchise, and to capture still more powerful creatures (maybe gods?)
 

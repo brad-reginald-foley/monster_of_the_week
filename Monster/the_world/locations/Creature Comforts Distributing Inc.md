@@ -28,7 +28,7 @@ Another door leads to what looks like a torture chamber. There are **two angels*
 **Den** (motivation: to harbour monsters)
 
 # NPCs
-* [[Dimitri Garagarian]]
+* [[Dimitri Gragarian]]
 
 # Monsters
 * [[Vernon Comfort]]
