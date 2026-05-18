@@ -28,7 +28,7 @@ A running scratch list of ideas is here.
 * [[Monster template schema]]
 * [[NPC template schema]]
 
-# Resources
+# Exernal resources
 
 * https://evilhat.com/product/monster-of-the-week/
 * https://en.wikipedia.org/wiki/Monster_of_the_Week

@@ -6,8 +6,22 @@ Players:
 * player 1
 * player 2
 
-# story outline
+# Story outline
 ## in brief
+
+# hook
 
 ## details
 
+# Countdown
+## day
+
+## shadows
+
+## sunset
+
+## dusk
+
+## nightfall
+
+## midnight

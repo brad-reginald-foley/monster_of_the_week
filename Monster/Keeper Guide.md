@@ -1,10 +1,23 @@
 *Make the world scary. Play to see what happens. Make the hunters' lives dangerous and scary*
-# Always say
+
+This is the quick guide for setting up and running a session.
+
+# Setting up a session
+Use the templates to define the people, places and things for the adventure:
+* [[Location template schema]]
+* [[Monster template schema]]
+* [[NPC template schema]]
+* [[Player template schema]]
+
+Get a [[Session x.y template]] and create an adventure referring out to all the other resources
+
+# Running a session
+## Always say
 * What the principles demand
 * What the rules demand
 * What your prepared mystery and arcs demand
 * What honesty demands
-# Keeper moves
+## Keeper moves
 *You can do hard moves and soft moves. Either push them in a direction or force them*
 * Separate them
 * Reveal future badness
@@ -19,8 +32,8 @@
 * Make a threat move, from one of your mystery or arc threats
 * After every move, ask what they do next
 
-# Threat moves
-## monster threat moves
+## Threat moves
+### monster threat moves
 * Hint at its presence
 * Display its full height
 * Appear suddenly
@@ -36,7 +49,7 @@
 * Return from seeming destruction
 * Use an unnatural power
 
-## Minion threat moves 
+### Minion threat moves 
 * A burst of sudden, uncontrolled violence
 * Make a coordinated attack
 * Capture someone or steal something
@@ -48,7 +61,7 @@
 * Use an unnatural power 
 * Display a hint of conscience or humanity
 * Disobey the master in some petty way
-## Bystander threat moves
+### Bystander threat moves
 * Go off alone
 * Argue with the hunters
 * Get in the way
@@ -60,7 +73,7 @@
 * Display inability or incompetence
 * Seek help or comfort
 
-## Location threat moves
+### Location threat moves
 * Present a hazard
 * Reveal something
 * Hide something
@@ -72,7 +85,7 @@
 * Present a guardian
 * Something doesn't work properly
 * Create a particular feeling
-# Basic hunter moves
+## Basic hunter moves
 * **Act under pressure.** +Cool
 	* 7-9 worse outcome, hard choice or price to pay
 * **Help out.** +Cool
@@ -131,7 +144,7 @@
 		* *the magic draws immediate unwelcome attention*
 		* *It has a problematic side effect*
 
-# Keeper Principles
+## Keeper Principles
 * Put horror in everyday situations
 * Address yourself to the hunters, not the players
 * Use the Keeper moves, but never use their names

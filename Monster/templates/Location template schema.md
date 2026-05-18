@@ -1,5 +1,4 @@
 
-
 # Description
 
 # Location type and motivation
@@ -30,6 +29,12 @@
 * Present a guardian
 * Something doesn't work properly
 * Create a particular feeling
+
+# Monsters
+
+For the most part, we'll define location specific monsters using the fields from the [[Monster template schema]] within the location files
+# NPCs
+For the most part, we'll define location specific NPCs using the fields from the [[NPC template schema]] within the location files
 
 # Session
 what session was it used in
