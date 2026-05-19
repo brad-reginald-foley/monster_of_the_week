@@ -7,11 +7,11 @@ When he eats the devil's food cake he gets about one and a half human size, with
 
 He shows up in [[Creature Comforts Distributing Inc]]
 # Powers
-* Strength: 3 harm, hand
+* Strength/punch: 3 harm, hand
 * Can throw fire: 3 harm, close
 * Teeth: 2 harm, hand
 # Weaknesses
-When in his human form, he's basically just as strong as a normal NPC. WHen he's eaten the Devil's food cake, he has devil weaknesses
+When in his human form, he's basically just as strong as a normal NPC. When he's eaten the Devil's food cake, he has devil weaknesses
 * anything divine
 * bright light slows him down
 * he will time out after about 20 min

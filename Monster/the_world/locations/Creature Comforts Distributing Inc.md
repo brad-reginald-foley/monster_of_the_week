@@ -10,12 +10,14 @@ You enter through a gate on Alcoa, there is an automatic gate with bars, and a s
 * angel food cake
 * cinnamon trolls
 
-In the loading bay there are a couple of guards (troll minions) and a customer loading at truck (organized crime guy)
+In the loading bay there are a couple of guards (troll minions, below) and a customer loading at truck ([[Dimitri Gragarian]])
 
 ## food prep area
 Through a door is the food prep area, very large, with large ovens and counters and mixers and a vat for candy. Clearly not a huge industrial operation (more bespoke) but there is space for more equipment. Anomalously, many of the surfaces are covered in arcane runes and casting symbols in a terrifying script that hurts your eyes. 
 
-A devil, three times the size of a human, is hanging from chains, alive, his arm flayed. This is where Big Bad [[Vernon Comfort]] comes
+A devil (Merodach, [[Grygryx]]'s master), is hanging from chains. He is three times the size of a human, alive, his arm flayed. 
+
+This is where Big Bad [[Vernon Comfort]] comes. He might be singing "Candy Man" when he eats the cake
 
 Knives and other potential weapons. No windows 
 
@@ -32,8 +34,23 @@ Another door leads to what looks like a torture chamber. There are **two angels*
 
 # Monsters
 * [[Vernon Comfort]]
-*  
-
+# Minions
+* Johnny Huang 
+	* Security guard
+	* Human? Troll?
+	* very large, grayish skin
+	* sunglasses and suit
+	* handgun (2 harm)
+	* punch (2 harm)
+	* can take 7 harm XXXXXXX
+* Lacey Nazarian
+	* Security guard
+	* Human? Troll?
+	* very large, grayish skin
+	* sunglasses and suit
+	* handgun (2 harm)
+	* punch (2 harm)
+	* can take 7 harm XXXXXXX
 
 # Address
 5703 Alcoa Ave, in Vernon

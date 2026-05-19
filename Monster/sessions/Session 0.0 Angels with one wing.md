@@ -3,19 +3,20 @@
 ## Date: 
 May 19 2026
 ## Players:
-* player 1
-* player 2
+* [[Biff McGee]] (Ethan): Chosen
+* [[Jessica E. Thorn]] (Josh): Expert
+* [[Dutch Dakota]]: 
 # Story outline
 ## in brief
 There is a mysterious disaster at a birthday party at [[Lilit Gragarian's House]], as several children go floating into the air after eating cotton candy. The seemingly whimsical misadventure turns out to have a macabre cause.
 ## hook
- The hunters are listening to [[Mariano Williamson]]'s talkshow and someone calls in sounding frantic. It's Lilit Gragarian. 
+ The hunters are listening to [[Mariano Williamson]]'s talkshow and someone calls in sounding frantic. It's **Rosalinda Gutierez** the neighbor 
  
- Lilit's granddaughter, Mimi Gragarian had a 6th birthday party with 7 of her friends, and there was cotton candy and hotdogs and music. The children ate the fairy floss and one after another "started to sparkle" and flew off. Most of them got stuck in the trees. One was only found 40 minutes later, blocks away, in a Jons, spinning around in a circle of mushrooms crying "I want to go home" 
+ **Lilit Gragarian**'s granddaughter, Mimi Gragarian had a 6th birthday party with 7 of her friends, and there was cotton candy and hotdogs and music. The children ate the fairy floss and one after another "started to sparkle" and flew off. Most of them got stuck in the trees. One was only found 40 minutes later, blocks away, in a Jons, spinning around in a circle of mushrooms crying "I want to go home" 
 
 The call in was cut off suddenly, by a voice saying "Mom! I told you ..."
 ## details
-It turns out that Mimi's father, [[Dimitri Gragarian]], had a history in organised crime, and wa working with [[Los Profanas]] to help them acquire illicit creature infused magical food.
+It turns out that Mimi's father, [[Dimitri Gragarian]], had a history in organised crime, and was working with [[Las Profanas]] to help them acquire illicit creature infused magical food.
 
 There is a catering and bakery company called [[Creature Comforts Distributing Inc]] that has a shop front called [[Creature Confections]] in Beverly Hills and a factory in the warehouse district. They vivisect creatures, and put their essences into food that they sell to the uber rich, as well as criminal elements in the city. They are looking to expand their franchise, and to capture still more powerful creatures (maybe gods?)
 
@@ -32,15 +33,16 @@ There is a catering and bakery company called [[Creature Comforts Distributing I
 	* unicorns (male stamina) candy corn
 # Countdown
 ## day
-* [[Creature Comforts Distributing Inc]] has started working with [[Los Profanas]] to extend catering magical food to crime syndicates to make them more powerful. The initial tests have been wildly succesful, but there was an incident that threatened to reveal the operation
+* [[Creature Comforts Distributing Inc]] has started working with [[Las Profanas]] to extend catering magical food to crime syndicates to make them more powerful. The initial tests have been wildly succesful, but there was an incident that threatened to reveal the operation
 ## shadows
-* Minions from [[Los Profanas]] threaten [[Lilit Gragarian's House|Lilit Gragarian]], and the hunters to keep her from talking anyone who can prevent their schemes
+* Minions (minotaur) from [[Las Profanas]] threaten [[Lilit Gragarian's House|Lilit Gragarian]], Rosalinda Guttierez, and the hunters to keep them from talking anyone who can prevent their schemes
 ## sunset
-* There is a red glow on the horizon as a devil, Argrajax Zenofundiel, is summoned to the grave of Sammy Davis Jr and is captured by [[Vernon Comfort]] in Forest Lawn Cemetery
-* [[Grygryx]] loses his ever loving mind
-## dusk
+* There is an increasing amount of "impossible" crime around the city, including a car jacking and shootout on the freeway where they bash actual cars around. 
+	* Las Profanas are the perpetrators
 * This should be about when the Hunters visit [[Creature Confections]]
-* Getting a delivery of the newest confections (angel?)
+## dusk
+* There is a red glow on the horizon as a devil, Argrajax Zenofundiel, is summoned to the grave of Sammy Davis Jr and is captured by [[Vernon Comfort]] in Forest Lawn Cemetery
+* [[Grygryx]] loses her ever loving mind and seeks out the Chosen one who will "ride evil from the world"
 ## nightfall
 * [[Vernon Comfort]] will consume devil's food cake and gain an unprecedented level of power
 ## midnight
